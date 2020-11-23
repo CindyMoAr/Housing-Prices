@@ -1,5 +1,5 @@
 # Housing-Prices
-Assignment proposed by Applied Data Science with Python Course  in Coursera. Data cleaning and Hypothesis Testing with Pandas.
+Assignment proposed by the Applied Data Science with Python course in Coursera. Data cleaning and Hypothesis Testing with Pandas.
 
 Hypothesis: University towns have their mean housing prices less effected by recessions. Run a t-test to compare the ratio of the mean price of houses in university towns the 
 quarter before the recession starts compared to the recession bottom.
